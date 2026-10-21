@@ -1,3 +1,4 @@
+import { VenueItem } from "../../../../../interfaces"
 import Image from "next/image"
 import getVenue from "@/libs/getVenue"
 

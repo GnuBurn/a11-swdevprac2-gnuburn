@@ -1,3 +1,4 @@
+import { VenueItem, VenueJson } from "../../interfaces"
 import Link from 'next/link'
 import Card from './Card'
 
